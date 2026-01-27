@@ -1,8 +1,3 @@
-
-
-</div>
-
-  
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucysoraire&theme=tokyonight-duo&hide_border=true&background=FF5301&border=F7A8DB&stroke=F7A8DB&ring=F7A8DB&fire=F7A8DB&currStreakNum=F7A8DB&sideNums=F7A8DB&currStreakLabel=F7A8DB&sideLabels=F7A8DB&dates=F7A8DB&excludeDaysLabel=F7A8DB)](https://git.io/streak-stats)|![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucysoraire&show_icons=true&locale=en&theme=react&bg_color=FD00B2&title_color=FF9248&text_color=FF9248&icon_color=FF9248) |
 | :---: | :---: |
 
